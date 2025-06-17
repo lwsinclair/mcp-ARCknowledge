@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dragonjump-mcp-arcknowledge-badge.png)](https://mseep.ai/app/dragonjump-mcp-arcknowledge)
+
 # MCP ArcKnowledge
 
 [![smithery badge](https://smithery.ai/badge/@dragonjump/mcp-ARCknowledge)](https://smithery.ai/server/@dragonjump/mcp-ARCknowledge)
